@@ -213,7 +213,6 @@ a {
 /* List feature */
 
 .features {
-
     padding-top: 120px;
     padding-bottom: 120px;
 }
@@ -311,6 +310,10 @@ a {
     box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
+.team-list-image {
+    display: block;
+}
+
 /* portfolio filter */
 
 .portfolio {
@@ -376,8 +379,8 @@ a {
     width: calc((100% - 48px) / 3);
 }
 
-. .portfolio-list-image {
-    margin-bottom: 32px;
+.portfolio-list-image {
+    display: block;
 }
 
 .portfolio-list-item {
