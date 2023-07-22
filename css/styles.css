@@ -375,9 +375,9 @@ a {
     width: calc((100% - 48px) / 3);
 }
 
-/* .list-image {
+.list-image {
     display: block;
-} */
+}
 
 .portfolio-list-item {
     background: var(--white-background-color, #FFF);
