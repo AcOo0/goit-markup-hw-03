@@ -273,6 +273,7 @@ a {
 
 .studio-team {
     background-color: var(--light-color);
+    padding: 120px 0
 }
 
 .team-title {
@@ -281,8 +282,8 @@ a {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    padding-top: 120px;
     margin-bottom: 72px;
+    text-align: center;
 }
 
 .team-list-title {
